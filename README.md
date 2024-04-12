@@ -21,7 +21,7 @@ The LinkedIn Profile Insight Tool is designed to leverage advanced AI models, su
 
 ## Setup
 
-Ensure you have valid API keys for LinkedIn and Anthropic's AI services. Insert these keys where indicated in the code.
+Ensure you have valid API keys for LinkedIn and OpenRouter's AI services. Insert these keys where indicated in the code.
 
 ## Usage
 
