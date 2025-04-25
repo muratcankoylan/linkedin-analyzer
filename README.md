@@ -1,6 +1,6 @@
 # LinkedIn Profile Insight Tool
 
-**Creator**: Muratcan Koylan [Profile Link](https://twitter.com/youraimarketer)
+**Creator**: Muratcan Koylan [Profile Link](https://twitter.com/koylanai)
 
 ## Overview
 
