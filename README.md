@@ -54,7 +54,7 @@ Contributions are welcome! Enhance functionality, address bugs, or suggest impro
 
 For further information, collaboration, or inquiries, you can reach me directly on LinkedIn:
 
-- **Muratcan Koylan**: [Profile Link](https://twitter.com/youraimarketer)
+- **Muratcan Koylan**: [Profile Link](https://twitter.com/koylanai)
 
 ## Additional Resources
 
